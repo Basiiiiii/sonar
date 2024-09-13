@@ -1,1 +1,0 @@
-sonar.projectKey=Basiiiiii_sonar_c26c8f4f-4f30-45ff-a41b-895bbd089c46
